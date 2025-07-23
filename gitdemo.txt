@@ -1,0 +1,8 @@
+to create new branch
+git branch <branch name>
+git checkout 
+git merge 
+git branch
+git branch -d <branch name>
+git branch 
+git branch -a
